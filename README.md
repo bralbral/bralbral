@@ -2,7 +2,7 @@
   <img src="./github-metrics.svg" alt="GitHub metrics" width="800" />
 </p>
 
-## DBA · DE · DevOps · Linux Administrator
+## DE · DBA · DevOps · Linux Administrator
 
 Operating database platforms, Linux infrastructure, and data workloads.
 
