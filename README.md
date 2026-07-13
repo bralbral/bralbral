@@ -1,15 +1,12 @@
-<div align="center">
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub metrics" />
+</p>
 
-# Hi, I'm Denis 👋
+## DBA · DevOps · Linux Administrator
 
-### DBA · DevOps · Linux Administrator
+Operating database platforms, Linux infrastructure, and data workloads.
 
-I build and operate reliable database platforms, Kubernetes infrastructure,
-and automation for data workloads.
-
-[GitHub](https://github.com/bralbral) · [Docker Hub](https://hub.docker.com/u/bral1488)
-
-</div>
+[Docker Hub](https://hub.docker.com/u/bral1488)
 
 ## What I do
 
@@ -28,13 +25,3 @@ and automation for data workloads.
 | **CI/CD** | GitLab CI · Argo CD |
 | **Data Engineering** | Python · Airflow · Kafka |
 | **Observability** | Prometheus · Grafana |
-
-## Focus
-
-Database reliability, Kubernetes infrastructure, and data platforms.
-
-## GitHub activity
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub activity" width="720" />
-</p>
