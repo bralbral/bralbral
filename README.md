@@ -2,7 +2,7 @@
   <img src="./github-metrics.svg" alt="GitHub metrics" />
 </p>
 
-## DBA · DevOps · Linux Administrator
+## DBA · DE · DevOps · Linux Administrator
 
 Operating database platforms, Linux infrastructure, and data workloads.
 
@@ -21,7 +21,7 @@ Operating database platforms, Linux infrastructure, and data workloads.
 | Area | Technologies |
 | --- | --- |
 | **Databases** | ClickHouse · Elasticsearch · Microsoft SQL Server · PostgreSQL |
-| **Infrastructure** | Linux · Kubernetes · Docker |
+| **Infrastructure** | Linux · Docker · Kubernetes |
 | **CI/CD** | GitLab CI · Argo CD |
-| **Data Engineering** | Python · Airflow · Kafka |
+| **Data Engineering** | Python · Airflow · Kafka · Spark |
 | **Observability** | Prometheus · Grafana |
