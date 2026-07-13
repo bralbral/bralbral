@@ -35,6 +35,6 @@ Database reliability, Kubernetes infrastructure, and data platforms.
 
 ## GitHub activity
 
-![GitHub metrics](/github-metrics.svg)
-
-![Metrics](/github-metrics.svg)
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub activity" width="720" />
+</p>
