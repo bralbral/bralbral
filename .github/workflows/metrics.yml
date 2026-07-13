@@ -18,10 +18,5 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
-
-          # Убирает шапку с ФИО, аватаром и прочей базовой статистикой
-          base: ""
-
-          # Оставляет только красивую карту активности
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          template: terminal
+          base: header, metadata
