@@ -1,12 +1,15 @@
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics" width="800" />
-</p>
+<div align="center">
 
-## DE · DBA · DevOps · Linux Administrator
+# Hi, I'm Denis 👋
 
-Operating database platforms, Linux infrastructure, and data workloads.
+### DE · DBA · DevOps · Linux Administrator
+
+I build and operate reliable database platforms, Kubernetes infrastructure,
+and automation for data workloads.
 
 [Docker Hub](https://hub.docker.com/u/bral1488)  · [Artefact Hub](https://artifacthub.io/packages/search?user=bbralyc)
+
+</div>
 
 ## What I do
 
